@@ -1,20 +1,19 @@
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1280/0*1fOKSM9na9IBROxm.gif)]
 <h1 align="center">Hi 👋, I'm Kshitij Mohan</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://lirp.cdn-website.com/2b5a0c72/dms3rep/multi/opt/Enhance-640w.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitij-m&label=Profile%20views&color=0e75b6&style=flat" alt="kshitij-m" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kshitij-m" alt="kshitij-m" /></a> </p>
+- 🔭 I’m currently working on **Large Language Models (LLMs)**
 
-- 🔭 I’m currently working on **LLMs**
-
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **Natural Language Processing (NLP)**
 
 - 👯 I’m looking to collaborate on **Kaggle**
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/kshitijmohan](https://www.kaggle.com/kshitijmohan)
 
-- 💬 Ask me about **Machine Learning, Deep Learning**
+- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, Natural Language Processing**
 
 - 📫 How to reach me **kshitijmhn@gmail.com**
 
