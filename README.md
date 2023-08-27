@@ -1,7 +1,6 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1280/0*1fOKSM9na9IBROxm.gif)]
 <h1 align="center">Hi 👋, I'm Kshitij Mohan</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://lirp.cdn-website.com/2b5a0c72/dms3rep/multi/opt/Enhance-640w.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitij-m&label=Profile%20views&color=0e75b6&style=flat" alt="kshitij-m" /> </p>
 
