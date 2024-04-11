@@ -37,8 +37,4 @@
   * 🥇[Fellowship @Anubhuti-IIITD](https://www.kaggle.com/competitions/iiitd-abuse-detection-challenge) **Skills:** Object Detection · DL
 
 ## Progress:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitij-m&show_icons=true&locale=en&layout=compact" alt="kshitij-m" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshitij-m&show_icons=true&locale=en" alt="kshitij-m" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitij-m&" alt="kshitij-m" /></p>
